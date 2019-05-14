@@ -3332,7 +3332,7 @@ pg-connection-string@0.1.3:
 
 pg-hstore@^2.3.2:
   version "2.3.2"
-  resolved "https://registry.yarnpkg.com/pg-hstore/-/pg-hstore-2.3.2.tgz#f7ef053e7b9b892ae986af2f7cbe86432dfcf24f"
+  resolved "https://registry.npmjs.org/pg-hstore/-/pg-hstore-2.3.2.tgz#f7ef053e7b9b892ae986af2f7cbe86432dfcf24f"
   integrity sha1-9+8FPnubiSrphq8vfL6GQy388k8=
   dependencies:
     underscore "^1.7.0"
@@ -3360,7 +3360,7 @@ pg-types@~2.0.0:
 
 pg@^7.11.0:
   version "7.11.0"
-  resolved "https://registry.yarnpkg.com/pg/-/pg-7.11.0.tgz#a8b9ae9cf19199b7952b72957573d0a9c5e67c0c"
+  resolved "https://registry.npmjs.org/pg/-/pg-7.11.0.tgz#a8b9ae9cf19199b7952b72957573d0a9c5e67c0c"
   integrity sha512-YO4V7vCmEMGoF390LJaFaohWNKaA2ayoQOEZmiHVcAUF+YsRThpf/TaKCgSvsSE7cDm37Q/Cy3Gz41xiX/XjTw==
   dependencies:
     buffer-writer "2.0.0"
@@ -3834,7 +3834,7 @@ sequelize-pool@^1.0.2:
 
 sequelize@^5.8.6:
   version "5.8.6"
-  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-5.8.6.tgz#22cd5b9443fa303552f925f99a08c9a5236f86cb"
+  resolved "https://registry.npmjs.org/sequelize/-/sequelize-5.8.6.tgz#22cd5b9443fa303552f925f99a08c9a5236f86cb"
   integrity sha512-u6KJuMBNLAE44PkGUTlevBseb6BV/n5r8CDGmYe1VxcGxdlWXYUiNXlEFEW0OL6ie+yXYV7dnPHa/fDi1M7gMw==
   dependencies:
     bluebird "^3.5.0"
